@@ -1,0 +1,9 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.pdb
